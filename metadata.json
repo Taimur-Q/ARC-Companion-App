@@ -1,0 +1,5 @@
+{
+  "name": "ARC Raiders Wiki Companion",
+  "description": "A tactical companion app for ARC Raiders featuring item databases, recycling yields, sell prices, and quest requirements.",
+  "requestFramePermissions": []
+}
